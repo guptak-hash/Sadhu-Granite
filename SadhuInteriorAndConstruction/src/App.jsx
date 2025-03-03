@@ -22,8 +22,6 @@ function App() {
     </>
   )
 }
-import Home from './components/Home'
-import Services from './components/Services'
-import Project from './components/Project'
+
 
 export default App
