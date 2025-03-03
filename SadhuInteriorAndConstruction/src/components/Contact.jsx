@@ -2,7 +2,11 @@ import Navbar from "../common/Navbar"
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <>
+    <Navbar/>
+      <div>Contact</div>
+    </>
+  
   )
 }
 
